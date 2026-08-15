@@ -20,6 +20,9 @@
 /[Uu]ser[Ss]ettings/
 *.log
 
+# Packages (Unity ignores Packages by default in some setups; explicitly keep our embedded package)
+!/[Pp]ackages/com.depthamera.mytime/
+
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be committed to version control.
 *.blend1
 *.blend1.meta
