@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.LowLevel;
 using UnityEngine.PlayerLoop;
 
-namespace MyTime.LowLevel
+namespace UniTick.LowLevel
 {
     /// <summary>
     /// Unity PlayerLoop의 Update 단계에 커스텀 시간 시스템 마커를 삽입하고 관리합니다.

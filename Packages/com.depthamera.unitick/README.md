@@ -1,4 +1,4 @@
-# MyTime
+# UniTick
 
 Hierarchical custom time control system for Unity using `UnityEngine.LowLevel.PlayerLoop`.
 
@@ -10,5 +10,5 @@ Hierarchical custom time control system for Unity using `UnityEngine.LowLevel.Pl
 ## Installation via Git URL
 In Unity Package Manager, click `+` -> `Add package from git URL...`:
 ```
-https://github.com/depthamera/MyTime.git?path=/Packages/com.depthamera.mytime
+https://github.com/depthamera/UniTick.git?path=/Packages/com.depthamera.unitick
 ```
