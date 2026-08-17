@@ -1,7 +1,7 @@
 {
-  "name": "com.depthamera.mytime",
+  "name": "com.depthamera.unitick",
   "version": "0.1.0",
-  "displayName": "MyTime",
+  "displayName": "UniTick",
   "description": "Hierarchical custom time control system using Unity PlayerLoop.",
   "unity": "2022.3",
   "unityRelease": "0f1",

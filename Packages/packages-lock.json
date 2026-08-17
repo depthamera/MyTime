@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.depthamera.mytime": {
-      "version": "file:com.depthamera.mytime",
+    "com.depthamera.unitick": {
+      "version": "file:com.depthamera.unitick",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

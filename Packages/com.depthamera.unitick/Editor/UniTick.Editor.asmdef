@@ -1,8 +1,12 @@
 {
-    "name": "MyTime.Runtime",
-    "rootNamespace": "MyTime",
-    "references": [],
-    "includePlatforms": [],
+    "name": "UniTick.Editor",
+    "rootNamespace": "UniTick.Editor",
+    "references": [
+        "UniTick.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
